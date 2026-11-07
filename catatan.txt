@@ -1,0 +1,3 @@
+Halo, ini adalah baris pertama catatan.
+Belajar Python Dasar di Santrikoding sangat menyenangkan!
+Baris tambahan baru ditambahkan di akhir file.
